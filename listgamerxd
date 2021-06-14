@@ -1,0 +1,35 @@
+# EXTM3U
+2
+​
+3
+#EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title = "CANAIS| ESPORTES", SPORT TV 1
+4
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+5
+​
+6
+#EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title = "CANAIS| ESPORTES", SPORT TV 2
+7
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+8
+​
+9
+#EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title = "CANAIS| ESPORTES", SPORT TV 3
+10
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
+11
+​
+12
+#EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title = "CANAIS| ESPORTES", SPORT TV 4
+13
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
+14
+​
+15
+#EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title = "CANAIS| ESPORTES", SPORT TV SD
+16
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/8uivez2xwc4h8.m3u8?s=fCwnm9K9tA5RDwyYFdUn-Q&e=1608618005
+17
+​
+18
+#EXTINF: -1 tvg-logo = "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title = "CANAIS| ESPORTES", PREMIERE 1
