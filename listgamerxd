@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BBB",BBB 22 DIGITAL*
+http://pvsrvs.xyz:80/dieilson25/di378271909/77950?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BBB",BBB 22 HD
+http://pvsrvs.xyz:80/dieilson25/di378271909/77922?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BBB",BBB 22 HD*
+http://pvsrvs.xyz:80/dieilson25/di378271909/77951?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
 http://x00.so:80/Q6bbe/FZnw29/72330.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | 4K [FHDR]",SporTV3 4K FHDR
