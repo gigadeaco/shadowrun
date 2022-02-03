@@ -220,3 +220,29 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",Woohoo
 http://168.205.87.198:8555/live/adriana/123456/141.m3u8
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 1
+http://goplays.xyz:8000/Del2021/Del2021/219608?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 1 Clubes DIGITAL*
+http://pvsrvs.xyz:80/dieilson25/di378271909/3010?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 1 Clubes HD
+http://pvsrvs.xyz:80/dieilson25/di378271909/133?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 1 Clubes HD+*
+http://pvsrvs.xyz:80/dieilson25/di378271909/3013?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 2
+http://187.94.148.10:8090/play/a00t/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 2 DIGITAL*
+http://pvsrvs.xyz:80/dieilson25/di378271909/3014?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 3 HD
+http://pvsrvs.xyz:80/dieilson25/di378271909/135?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 3 HD+
+http://pvsrvs.xyz:80/dieilson25/di378271909/142?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 4
+http://goplays.xyz:8000/Del2021/Del2021/219611?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 5
+http://187.94.148.10:8090/play/a01e/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere 7
+http://goplays.xyz:8000/Del2021/Del2021/219614?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere Clubes
+http://187.94.148.10:8090/play/a00v/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere Clubes HD BR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13610?checkedby:iptvcat.com
