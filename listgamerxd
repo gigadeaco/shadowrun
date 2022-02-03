@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/icons/honours/Campeonato_Paulista.png" group-title="Canais | SporTV",HBO MAX 4 HD
-http://61.216.1.24:5021/live/408.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/icons/honours/Campeonato_Paulista.png" group-title="Canais | SporTV",HBO MAX 5 HD
+https://cdn.cdnii.com/51fbe04aab1872cc68aae09f336b65ef/2020/1/20201573-720p.mp4
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/icons/honours/Campeonato_Paulista.png" group-title="Canais | SporTV",HBO MAX 2 HD
 http://cdnrede.com:80/Erik123/Erik321/214665?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/icons/honours/Campeonato_Paulista.png" group-title="Canais | SporTV",HBO MAX HD
