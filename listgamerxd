@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS",ESTÁDIO TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS",ESTÁDIOTNT
+http://45.4.0.46:8000/play/cdfhd
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS",ESTÁDIO 2
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17460
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS",ESTÁDIO 3
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17459t
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS",ESTÁDIO TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS",ESTÁDIO TNT SPORTS
