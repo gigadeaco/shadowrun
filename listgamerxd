@@ -262,3 +262,5 @@ http://goplays.xyz:8000/Del2021/Del2021/219614?checkedby:iptvcat.com
 http://187.94.148.10:8090/play/a00v/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/free-tube-premium-advanced-tuber.jpg" group-title="All",Premiere Clubes HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13610?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/br-com-logica-brasilhits.jpg" group-title="FILMES E SÉRIES", TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8?ROGERIOTORRES
