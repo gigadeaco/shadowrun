@@ -1,31 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe", BBB 22 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55283
+http://cdn.uptv.one:80/dilson2021/2021dilson/55283
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Mosaico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55285
+http://cdn.uptv.one:80/dilson2021/2021dilson/55285
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55286
+http://cdn.uptv.one:80/dilson2021/2021dilson/55286
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55287
+http://cdn.uptv.one:80/dilson2021/2021dilson/55287
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55288
-#EXTINF:-1,BBB Câmera 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55289
+http://cdn.uptv.one:80/dilson2021/2021dilson/55288
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 04
+http://cdn.uptv.one:80/dilson2021/2021dilson/55289
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55290
+http://cdn.uptv.one:80/dilson2021/2021dilson/55290
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55291
+http://cdn.uptv.one:80/dilson2021/2021dilson/55291
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55292
+http://cdn.uptv.one:80/dilson2021/2021dilson/55292
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55293
+http://cdn.uptv.one:80/dilson2021/2021dilson/55293
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55294
-#EXTINF:-1,BBB Câmera 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55295
+http://cdn.uptv.one:80/dilson2021/2021dilson/55294
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 10
+http://cdn.uptv.one:80/dilson2021/2021dilson/55295
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.uptv.one:80/dilson2021/2021dilson/55296
+http://cdn.uptv.one:80/dilson2021/2021dilson/55296
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/509496846/c364f2f384adb5a182e0ef4798933e58?v=1" group-title="ESPORTES", TNT Sportss 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/509496846/c364f2f384adb5a182e0ef4798933e58?v=1" group-title="ESPORTES", TNT Sportss 1² HD
