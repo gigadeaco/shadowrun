@@ -1,7 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6f4bc37d-1221-4ca6-beab-9aab2defe12b" group-title="NooXTV", BBB 1 HD
-http://api.magiaiptv.com/live/800364/107211/m1_jEFNwvhSJIGHIAc7A_720p
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BBB",BBB CAM 01
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006788.m3u8
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Mosaico HD
 http://cdn.uptv.one:80/dilson2021/2021dilson/55285
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 01
