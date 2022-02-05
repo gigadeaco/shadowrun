@@ -1,30 +1,58 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BBB",BBB CAM 01
 http://neonp2p.com:8080/live/Rene2021/Rene2021/1006788.m3u8
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Mosaico HD
-http://cdn.uptv.one:80/dilson2021/2021dilson/55285
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 01
-http://cdn.uptv.one:80/dilson2021/2021dilson/55286
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 02
-http://cdn.uptv.one:80/dilson2021/2021dilson/55287
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 03
-http://cdn.uptv.one:80/dilson2021/2021dilson/55288
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 04
-http://cdn.uptv.one:80/dilson2021/2021dilson/55289
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 05
-http://cdn.uptv.one:80/dilson2021/2021dilson/55290
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 06
-http://cdn.uptv.one:80/dilson2021/2021dilson/55291
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 07
-http://cdn.uptv.one:80/dilson2021/2021dilson/55292
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 08
-http://cdn.uptv.one:80/dilson2021/2021dilson/55293
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 09
-http://cdn.uptv.one:80/dilson2021/2021dilson/55294
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 10
-http://cdn.uptv.one:80/dilson2021/2021dilson/55295
-#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/bbb-n22aovivo2.jpg" group-title="BeBeBe",BBB Câmera 11
-http://cdn.uptv.one:80/dilson2021/2021dilson/55296
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BIG BROTHER BRASIL",BBB CAM 01
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006788.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 02" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 02
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006789.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 03" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 03
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006790.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 04" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 04
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006791.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 05" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 05
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006792.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 06" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 06
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006793.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 07" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 07
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006794.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 08" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 08
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006795.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 09" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 09
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006796.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 10" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 10
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006797.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 11" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 11
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006798.m3u8
+#EXTINF:-1 tvg-id="BBB HD 2" tvg-name="BBB 22 HD 2" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB 22 HD 2
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006799.m3u8
+#EXTINF:-1 tvg-id="BBB Mosaico HD" tvg-name="BBB MOSAICO HD" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB MOSAICO HD
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="ESPORTE",HBO MAX CHAMPIONS LEAGUE 4
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 5" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="ESPORTE",HBO MAX CHAMPIONS LEAGUE 5
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 # 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="ESPORTE",COPA DO NORDESTE 2022 # 3
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 # 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="ESPORTE",COPA DO NORDESTE 2022 # 4
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 # 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="ESPORTE",COPA DO NORDESTE 2022 # 5
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 # 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="ESPORTE",COPA DO NORDESTE 2022 # 6
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 # 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="ESPORTE",COPA DO NORDESTE 2022 # 7
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006813.m3u8
+#EXTINF:-1 tvg-id="Carioca" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="" group-title="ESPORTE",CAMPEONATO CARIOCA 1
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="" group-title="ESPORTE",CAMPEONATO CARIOCA 2
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 3" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="ESPORTE",CAMPEONATO CARIOCA 3
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O TEMPO SPORTS" tvg-logo="http://srvlogo.07d994.co/cover/1/otempo.png" group-title="ESPORTE",O TEMPO SPORTS
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1 HD" tvg-logo="https://3.bp.blogspot.com/-aN8hv8VcBCo/WlZf8ao_6CI/AAAAAAABVi0/nSb_4iwvfTIodesue2RMTXA4HtR_w0KKwCLcBGAs/s1600/%2521%2521%2Blogo.jpg" group-title="ESPORTE",CAMPEONATO PARANAENSE 1 HD
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2 HD" tvg-logo="http://vipeiptv.com:8080/images/64c4238859fd1de8ce789b92276a4509.jpg" group-title="ESPORTE",CAMPEONATO PARANAENSE 2 HD
+http://neonp2p.com:8080/live/Rene2021/Rene2021/1006826.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/509496846/c364f2f384adb5a182e0ef4798933e58?v=1" group-title="ESPORTES", TNT Sportss 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/509496846/c364f2f384adb5a182e0ef4798933e58?v=1" group-title="ESPORTES", TNT Sportss 1² HD
