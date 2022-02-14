@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BBB",BBB CAM 01
-http://neonp2p.com:8080/live/Rene2021/Rene2021/1006788.m3u8
+#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BBB",BBB CAMtest
+http://10.0.0.196/multi/playlist.m3u8?id=468
 #EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BIG BROTHER BRASIL",BBB CAM 01
 http://neonp2p.com:8080/live/Rene2021/Rene2021/1006788.m3u8
 #EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 02" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 02
