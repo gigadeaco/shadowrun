@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TSH" tvg-name="TNT SPORTS HD" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="TS",TNT SPORTS HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BIG BROTHER BRASIL",BBB CAM 01
-http://neonp2p.com:8080/live/Rene2021/Rene2021/1006788.m3u8
+#EXTINF:-1 tvg-id="TSH" tvg-name="TNT SPORTS SD" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="TS",TNS SPORTS SD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 02" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 02
 http://neonp2p.com:8080/live/Rene2021/Rene2021/1006789.m3u8
 #EXTINF:-1 tvg-id="BIG" tvg-name="BBB CAM 03" tvg-logo="http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 03
